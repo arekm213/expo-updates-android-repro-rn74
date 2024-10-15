@@ -2,6 +2,19 @@
   "expo": {
     "name": "ExpoUpdatesAndroidReproRN74",
     "slug": "ExpoUpdatesAndroidReproRN74",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "76b063ca-6238-4466-8f1a-eaf19fd90072"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/76b063ca-6238-4466-8f1a-eaf19fd90072"
+    },
+    "android": {
+      "package": "com.expoupdatesandroidreprorn74"
+    },
+    "ios": {}
   }
 }
